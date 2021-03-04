@@ -1,4 +1,7 @@
 # MobileApps Activity 3
+Actividad 3 de la materia de Desarrollo de Aplicaciones para Dispositivos Moviles
+
+# INSTRUCCIONES
 - Main activity with a label and button
     - In the label the user must write her name
     - When the button is pressed the activity changes to a new one
